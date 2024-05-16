@@ -1,5 +1,5 @@
 
-# 💛 Bob JavaPants: Introdução à Orientação a Objetos 
+# 💛 Bob JavaPants: Introdução à Orientação a Objetos em Java
 
 <p align="center">
 <img src="assets/screenshot.png" alt="capa do livro" width="300px" align="center">
@@ -17,6 +17,12 @@ Neste livro digital, embarcaremos em uma jornada emocionante pelo universo da pr
 * **Capítulo 4: Polimorfismo:** Investigação do polimorfismo estático e dinâmico, juntamente com os conceitos de sobrecarga e sobrescrita de métodos. 
 * **Capítulo 5: Encapsulamento e Modificadores de Acesso:** Discussão sobre a importância do encapsulamento na POO e a utilização de modificadores de acesso como public, private, protected e default. 
 * **Capítulo 6: Agradecimentos:** Um breve momento para expressar gratidão aos leitores e colaboradores.
+
+## 📑 Onde acessar?
+1. Acesse a pasta **'output'**
+2. Acesse o PDF contido na pasta
+3. Boa leitura!
+
 ## ✨ Features
 
 - Conteúdo gerado via [ChatGPT]().
